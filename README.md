@@ -1,2 +1,3 @@
 # sejal-demo
-This is my first git Repositery
+This is my first git Repositery.
+Author - solanki sejal
